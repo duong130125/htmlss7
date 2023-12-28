@@ -1,0 +1,12 @@
+.square{
+    height: 310px;
+    width: 140px;
+    background-color: rgb(197, 198, 194);
+    padding: 30px;
+    margin: 200px;
+    border-radius: 80px 80px 15px 15px;
+}
+img{
+    border-radius: 20px 20px 5px 5px;
+}
+ 
