@@ -25,13 +25,3 @@ h2 {
     font-size: 70%;
 }
 
-.user-details strong {
-    min-width: 100px;
-}
-
-.user-address p {
-    width: 100%;
-    margin: 20px 0;
-    color: #666;
-    font-size: 70%;
-}
